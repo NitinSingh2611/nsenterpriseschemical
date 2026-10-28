@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nsenterpriseschemical.netlify.app/sitemap.xml
